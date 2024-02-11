@@ -1,1 +1,1 @@
-# chocolates-analytics-sales-dashboard
+# chocolates-sales-analysis-dashboard
